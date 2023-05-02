@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Desenvolvimento de Sistemas 1/3
+- 🌱 Estudante Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/lucasrealdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrealdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
